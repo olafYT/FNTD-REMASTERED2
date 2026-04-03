@@ -1068,5 +1068,44 @@
                 "Cooldown": 5
             }
         ]
+    },
+     "Endo 02": {
+        "Type": "Single",
+        "Image": "rbxassetid://17690383931",
+        "Rarity": "Secret",
+        "PlacePrice": 600,
+        "Max": 4,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Offset": -0.5,
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 15,
+                "Damage": 30,
+                "Cooldown": 0.3
+            },
+            {
+                "Price": 1200,
+                "Range": 18,
+                "Damage": 35,
+                "Cooldown": 0.3
+            },
+            {
+                "Price": 1600,
+                "Range": 22,
+                "Damage": 45,
+                "Cooldown": 0.3
+            },
+            {
+                "Price": 2200,
+                "Range": 25,
+                "Damage": 60,
+                "Cooldown": 0.3
+            }
+        ]
     }
 }
